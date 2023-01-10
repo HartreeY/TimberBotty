@@ -12,6 +12,6 @@ Auto-playing bot for Timberman for Windows.
 ## Info
 Tested on the Steam version of Timberman v2.10, but should work on any version. 
 
-Tested on a mediocre machine; perfomance might differ on different machines. The bot can reach 2007 score with the current program.
+Tested on a mediocre machine; perfomance may vary on different machines. With an unbroken chain of key presses, the bot can reach 2007 score with the current program.
 
 Note: sometimes the bot fails to read the screen. In that case simply click "Stop" and "Start" again.
