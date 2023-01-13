@@ -1,7 +1,7 @@
 # TimberBotty
 Auto-playing bot for Timberman for Windows.
 
-![Untitled](https://user-images.githubusercontent.com/67507125/211616036-ad339903-17e9-41bc-9ae6-c4dcb1427daa.png)
+![image](https://user-images.githubusercontent.com/67507125/212366204-144a4b69-4503-4763-88de-c93a554c3ca0.png)
 
 ## How to use
 1. Download and launch **main.exe**.
