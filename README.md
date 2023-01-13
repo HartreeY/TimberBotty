@@ -12,6 +12,6 @@ Auto-playing bot for Timberman for Windows.
 ## Info
 Tested on the Steam version of Timberman v2.10, but should work on any version. 
 
-Tested on a mediocre machine; perfomance may vary on different machines. The bot can reach ~2030 score with **delay** = 0.13.
+Tested on a mediocre machine; perfomance may vary on different machines. The bot can reach ~3650 score with **delay** = 0.11.
 
 Note: sometimes the bot fails to read the screen. In that case simply click "Stop" and "Start" again.
